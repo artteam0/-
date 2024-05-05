@@ -1,0 +1,116 @@
+@media (min-width: 480px) and (max-width: 1920px) {
+    html {
+      font-size: calc(5px + 15 * (100vw - 480px) / 1440);
+    }
+  }
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+h1 {
+    font-family: 'Alfa Slab One';
+    color: #000000;
+    font-size: 4rem;
+    letter-spacing: 0.05rem;
+}
+h2 {
+    font-family: 'Alfa Slab One';
+    color: black;
+    font-size: 2rem;
+    margin-left: 3.125rem;
+    letter-spacing: 0.05rem;
+}
+h3 {
+    display: inline;
+    font-family: 'Alfa Slab One';
+    font-size: 1,125rem;
+    color: black;
+    margin-left: 5%;
+}
+h4 {
+    font-family: 'Alfa Slab One';
+    font-size: 1.25rem;
+    color: black;
+    float: left;
+}
+h5 {
+    font-family: 'Courier New';
+    color: black;
+    font-size: 1.25rem;
+    width: 100%;
+    margin-top: -1.2rem;
+    font-weight: lighter;
+}
+h6 {
+    font-family: 'Courier New';
+    font-weight: lighter;
+    color: black;
+    font-size: 0.9375rem;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.first_link {
+    width: 10rem;
+    height: 8rem;
+}
+.logo {
+    width: 100%;
+    margin-top: -1.5rem;
+}
+.wex {
+    padding-top: -5rem;
+} 
+.a {
+    height: 2rem; 
+    margin-top: 2.75rem;
+} 
+.toBottom {
+    margin-top: 2.75rem;
+    height: 2rem;
+    margin-left: 4rem;
+}
+.Head {
+    margin-top: 5rem;
+    height: 3rem;
+    margin-left: 3rem;
+    width: 100%;
+}
+.BG {
+    background-color: #F6F6F6;
+    width: 83rem;
+    height: 104.375rem;
+    margin-left: 5.5rem;
+}
+.link {
+    width: 10rem;
+    height: 5rem;
+}
+div img {
+    width: 25rem;
+    height: 15rem;
+    margin-top: 2rem;
+    margin-left: 0rem;
+}
+div h2 {
+    font-family: 'Alfa Slab One';
+    font-size: 2rem;
+    color: black;
+    margin-left: 0rem;
+    width: 25rem;
+    margin-top: 0rem;
+}
+div h4 {
+    font-family: "Alfa Slab One";
+    font-size: 1rem;
+    color: #000000;
+    margin-left: 0rem;
+    width: 25rem;
+    margin-top: -2rem;
+}
+.descr {}
+.pp1 {
+    margin-top: 2rem;
+    margin-left: 0rem;
+}
